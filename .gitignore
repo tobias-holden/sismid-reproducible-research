@@ -1,0 +1,12 @@
+*.Renviron
+*.Rhistory
+*.Rproj.user
+*.Rdata
+*.DS_Store
+*.pdf
+*.png
+*.jpg
+*.docx
+*.html
+data/*
+.Rproj.user
